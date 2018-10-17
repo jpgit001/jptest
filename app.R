@@ -34,6 +34,9 @@ ui <- fluidPage(
   tags$hr(style="border-color: orange;"),
    # Application title
    titlePanel("Project Roles"),
+  
+  
+  helpText("Git test"),
    #headerPanel("Miles Per Gallon"),
    
    # Sidebar with a slider input for number of bins 
